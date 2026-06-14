@@ -1,7 +1,7 @@
 all: book.epub
 
 book.epub:
-	pandoc chapters/*.md -o $@
+	pandoc chapters/*.md --toc -o $@
 
 clean:
 	rm -f *.epub
