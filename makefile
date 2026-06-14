@@ -1,7 +1,7 @@
-all: book.epub
+all: book.pdf
 
-book.epub:
-	pandoc chapters/*.md --toc -o $@
+book.pdf:
+	pandoc chapters/*.md -f gfm --standalone --toc -o $@
 
 clean:
-	rm -f *.epub
+	rm -f *.epub *.pdf
