@@ -1,15 +1,14 @@
 # History
 
-Automata
---------
+An **automaton** is a relatively self-operating machine. Humans have been building automatons in various forms for as long as they have been building machines.
 
-- Self-operating machine
-- Follow pre-determined instructions
-- May mimic lifelike behavior
+![Mechanical Pinochio](https://upload.wikimedia.org/wikipedia/commons/4/4a/Mechanical_Pinochio.gif)
 
----
+Automata generally follow pre-determined instructions. They were build during the hellensitic period up through modern times.
 
 ![Vaucanson's duck](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Digesting_Duck.jpg/1280px-Digesting_Duck.jpg)
+
+![Maillardet automaton](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg/960px-Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg)
 
 Artificial Neurons
 ------------------
