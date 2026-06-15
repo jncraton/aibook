@@ -38,19 +38,15 @@ Dartmouth Workshop
 
 > The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.
 >
-> Workshop proposal
-
----
-
+> [...]
+>
 > An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves.
 >
-> Workshop proposal
-
----
-
+> [...]
+>
 > We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer.
 >
-> Workshop proposal
+> Dartmouth Workshop Proposal @mccarthy2006proposal
 
 ---
 
