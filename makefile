@@ -1,4 +1,4 @@
-all: index.pdf index.html
+all: index.html
 
 index.%:
 	pandoc chapters/*.md --bibliography ref.bib --csl ieee.csl -f markdown+citations --lua-filter wp.lua --standalone --citeproc --toc -o $@
