@@ -40,8 +40,10 @@ Are mammals intelligent? How would we know? We have been able to use mammals in 
 
 ![Service dog in training](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Service_dog_in_training_resting.jpg/1280px-Service_dog_in_training_resting.jpg)
 
-![Mules in the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mule_train.jpg/1280px-Mule_train.jpg)
+![Mules working in the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mule_train.jpg/1280px-Mule_train.jpg)
 
-Are humans intelligent? How would we know? Most definitions of intelligence assume that humans reside within this category, but how and when does intelligence develop? There are surely differences between a baby and an adult.
+Are humans intelligent? How would we know? Most definitions of intelligence assume that humans reside within this category, but how and when does intelligence develop? There are surely differences between a baby, child, and an adult.
 
 ![8-month-old human child](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Baby_Face.JPG/1280px-Baby_Face.JPG)
+
+![Sipke Ernst versus Magnus Carlsen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ErnstCarlsenWijkaanZee2004.jpg/1280px-ErnstCarlsenWijkaanZee2004.jpg)
