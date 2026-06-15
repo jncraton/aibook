@@ -10,24 +10,13 @@ Automata generally follow pre-determined instructions. They were build during th
 
 ![Maillardet automaton](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg/960px-Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg)
 
-Artificial Neurons
-------------------
-
-- Walter Pitts and Warren McCulloch showed that idealized artificial neurons could perform simple logical functions in 1943
-- First to describe what would be called an artificial neural network
-
----
+An **artificial neuron** was first idealized by Walter Pitts and Warren McCulloch in 1943 @mcculloch1943logical. They theorized that these neurons could be combined into structure that we similar in function to the human brain.
 
 ![Artificial Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Artificial_neuron_structure.svg/1280px-Artificial_neuron_structure.svg.png)
 
-Cybernetic Robots
------------------
+Cybernetic robots began to be developed in the 1940s. They did not use modern digital computers, but were controlled entirely using analog circuits. One early example is the **turtle robot** designed in the 1940s largely by William Grey Walter.
 
-- Developed in 1940s
-- Basic robots using analog circuitry
-- On early example is the [turtle](https://en.wikipedia.org/wiki/Turtle_(robot))
-
-![Turtle Robot](https://upload.wikimedia.org/wikipedia/commons/0/07/Turtle_draw.jpg)
+![Commercial Turtle Robot](https://upload.wikimedia.org/wikipedia/commons/0/07/Turtle_draw.jpg)
 
 Games
 -----
