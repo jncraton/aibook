@@ -9,7 +9,7 @@
 
 ## Definition
 
-**Artificial intelligence** allows systems to perform tasks that would require intelligence if done by humans.
+**Artificial intelligence** is the science of making machines do things that would require intelligence if done by humans @minsky1968semantic.
 
 AI is not magic. Many simple computer programs, from spell checkers to tic-tac-toe bots can be considered artificial intelligence. In popular culture, the term may mean something more. There are fears that AI will replace the work of humans. If your role involves checking spelling or playing tic-tac-toe, you should certainly be concerned about this. Otherwise, our time is likely better spent exploring the world and our human role within it.
 
