@@ -27,26 +27,19 @@ Cognitive Revolution
 - Began to merge psychology, linguistics, computer science, anthropology, neuroscience, and philosophy
 - Surpassed [behaviorism](https://en.wikipedia.org/wiki/Behaviorism) as the primary psychological paradigm
 
-Dartmouth Workshop
-------------------
+## Dartmouth Workshop
 
-- 1956 summer academic workshop at Dartmouth
-- Co-organized by Marvin Minsky, John McCarthy, Nathaniel Rochester, and Claude Shannon
-- Began the modern field of AI
+The modern history of artificial intelligence research is often cited as beginning in the summer of 1956 at the Dartmouth workshop. It was co-organized by Marvin Minsky, John McCarthy, Nathaniel Rochester, and Claude Shannon. The focus of the work was to model and sumulate numerous aspects of intelligence with computers.
 
----
+> The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. @mccarthy2006proposal
 
-> The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.
->
-> [...]
->
-> An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves.
->
-> [...]
->
-> We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer.
->
-> Dartmouth Workshop Proposal @mccarthy2006proposal
+The workshop included a number of goals that were incredibly aspirational, at least in hindsight.
+
+> An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves. @mccarthy2006proposal
+
+As has often been the case with the field of AI research, the researchers may not have fully appreciated the depth and difficulty of the problem to be explored.
+
+> We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer. @mccarthy2006proposal
 
 ---
 
