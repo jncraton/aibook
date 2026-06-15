@@ -29,7 +29,9 @@ Cognitive Revolution
 
 ## Dartmouth Workshop
 
-The modern history of artificial intelligence research is often cited as beginning in the summer of 1956 at the Dartmouth workshop. It was co-organized by Marvin Minsky, John McCarthy, Nathaniel Rochester, and Claude Shannon. The focus of the work was to model and sumulate numerous aspects of intelligence with computers.
+![Dartmouth Hall](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dartmouth_Hall_at_Dartmouth_College.jpg/1280px-Dartmouth_Hall_at_Dartmouth_College.jpg)
+
+The modern history of artificial intelligence research is often cited as beginning in the summer of 1956 at the **Dartmouth workshop**. It was co-organized by Marvin Minsky, John McCarthy, Nathaniel Rochester, and Claude Shannon. The focus of the work was to model and sumulate numerous aspects of intelligence with computers.
 
 > The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. @mccarthy2006proposal
 
