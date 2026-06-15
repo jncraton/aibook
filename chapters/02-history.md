@@ -18,11 +18,7 @@ Cybernetic robots began to be developed in the 1940s. They did not use modern di
 
 ![Commercial Turtle Robot](https://upload.wikimedia.org/wikipedia/commons/0/07/Turtle_draw.jpg)
 
-Games
------
-
-- Christopher Strachey wrote a checkers agent in 1951
-- Games have been used since that time to measure performance
+Games have long played a role in the development and testing of artificial intelligence agents. They provide a contained world with relatively simple rules. Christopher Strachey wrote a checkers agent in 1951 @strachey1952logical. Subsequently, agents have been implemented that are competitive or superior to humans in games like chess @campbell1999knowledge, go [@holcomb2018overview, @silver2018general], and StarCraft @arulkumaran2019alphastar.
 
 Cognitive Revolution
 --------------------
