@@ -30,7 +30,7 @@ It can be difficult to define intelligence itself. Let us explore questions, rat
 
 Are plants intelligent? How would we know? They don't seem to have brains or minds, yet they can change their behaviors based on stimulus from the environment, such as via **phototropism**:
 
-![Phototropism](https://upload.wikimedia.org/wikipedia/commons/a/aa/Phototropism_in_Solanum_lycopersicum.webm)
+![Phototropism](chapters/media/phototropism.gif)
 
 Are insects intelligent? How would we know? They clearly interact with their environment. They may also be able to collaborate with one another to complete larger projects.
 
