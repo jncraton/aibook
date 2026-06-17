@@ -47,3 +47,12 @@ Are humans intelligent? How would we know? Most definitions of intelligence assu
 ![8-month-old human child](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Baby_Face.JPG/1280px-Baby_Face.JPG)
 
 ![Sipke Ernst versus Magnus Carlsen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ErnstCarlsenWijkaanZee2004.jpg/1280px-ErnstCarlsenWijkaanZee2004.jpg)
+
+## Discussion Questions
+
+- What is intelligence?
+- How do we measure intelligence?
+- Are there different types of intelligence?
+- How do we determine if an animal is inellgent?
+- How is knowledge aquired?
+- Do definitions of intelligence vary between cultures?
