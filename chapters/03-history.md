@@ -51,7 +51,13 @@ As has often been the case with the field of AI research, the researchers may no
 >
 > Jostien Gaarder @gaarder1994sophie
 
-Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllogisms**, concrete rules for logical arguments that apply deductive reasoning to arrive at conclusions based on propositions. The task of formalizing thinking, reasoning, and knowledge has been one of the primary focuses of philosophy since that time.
+Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllogisms**, concrete rules for logical arguments that apply deductive reasoning to arrive at conclusions based on propositions. The task of formalizing thinking, reasoning, and knowledge has been one of the primary focuses of philosophy since that time. A common example of this is @mill1904system:
+
+> All men are mortal.  
+> Socrates is a man.  
+> Therefore, Socrates is mortal.  
+
+This framing has largely been generally superceded in mathenatics and philosophy by **predicate logic** in modern applications, but the core ideas remain.
 
 Threads of [transhumanism](https://en.wikipedia.org/wiki/Transhumanism), the idea that we can use of technology to enhance the human condition, and [technological utopianism](https://en.wikipedia.org/wiki/Technological_utopianism), the idea that science and technology can fulfill utopian ideals, are part of the fabric of modern thought.
 
