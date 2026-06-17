@@ -45,9 +45,13 @@ As has often been the case with the field of AI research, the researchers may no
 
 ---
 
+## Philosophy
+
 > The only thing we require to be good philosophers is the faculty of wonder.
 >
 > Jostien Gaarder @gaarder1994sophie
+
+Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllogisms**, concrete rules for logical arguments that apply deductive reasoning to arrive at conclusions based on propositions. The task of formalizing thinking, reasoning, and knowledge has been one of the primary focuses of philosophy since that time.
 
 Threads of [transhumanism](https://en.wikipedia.org/wiki/Transhumanism), the idea that we can use of technology to enhance the human condition, and [technological utopianism](https://en.wikipedia.org/wiki/Technological_utopianism), the idea that science and technology can fulfill utopian ideals, are part of the fabric of modern thought.
 
