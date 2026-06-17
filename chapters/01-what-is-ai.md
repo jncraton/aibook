@@ -5,7 +5,7 @@
 > About ourselves,  
 > By ourselves  
 >
-> Guido de Brès, 1561 [@belgic]
+> **Guido de Bres**, 1561 [@belgic]
 
 ## Definition
 
