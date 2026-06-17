@@ -89,7 +89,7 @@ This framing has largely been generally superceded in mathenatics and philosophy
 
 ### Modern Movements
 
-Threads of [transhumanism](https://en.wikipedia.org/wiki/Transhumanism), the idea that we can use of technology to enhance the human condition, and [technological utopianism](https://en.wikipedia.org/wiki/Technological_utopianism), the idea that science and technology can fulfill utopian ideals, are part of the fabric of modern thought.
+Threads of **transhumanism**, the idea that we can use of technology to enhance the human condition, and **technological utopianism**, the idea that science and technology can fulfill utopian ideals, are part of the fabric of modern thought.
 
 > In the promises of transhumanism and some posthumanist currents of thought, which seek an enhanced and almost disembodied humanity, we recognize a yearning that is of concern to us, namely the need for a fuller life, less exposed to limitations and suffering.
 >
