@@ -13,6 +13,15 @@
 
 AI is not magic. Many simple computer programs, from spell checkers to tic-tac-toe bots can be considered artificial intelligence. In popular culture, the term may mean something more. There are fears that AI will replace the work of humans. If your role involves checking spelling or playing tic-tac-toe, perhaps you should be concerned about this. Otherwise, our time may be better spent exploring and understanding this science and our human role applying it.
 
+### Who is this book for?
+
+This book is for anyone wanting to learn more about artificial intellgence. Many such books already exist, this one attempts to be distinctive in the following ways. It is:
+
+- Short - Many texts are very long, as this is an expansive and ever growing field. This book seeks to be as short as possible while not being shorter than that.
+- Succinct - This book seeks to only use many words if a few are not good enough.
+- Simple - This book does not intend to introduce the state of the art. It is meant to be an introduction to the field as a whole.
+- Applied - Learning happens by doing. Example problems are provided along the way to ensure complete understanding. It will be beneficial to complete these problems as you go.
+
 ## Disciplines
 
 Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particlar, we will explore the field by way of the following six more specific disciplines:
