@@ -51,6 +51,8 @@ As has often been the case with the field of AI research, the researchers may no
 >
 > Jostien Gaarder @gaarder1994sophie
 
+### Formal Logic
+
 Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllogisms**, concrete rules for logical arguments that apply deductive reasoning to arrive at conclusions based on propositions. The task of formalizing thinking, reasoning, and knowledge has been one of the primary focuses of philosophy since that time. A common example of this is @mill1904system:
 
 > All men are mortal.  
@@ -59,9 +61,36 @@ Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllog
 
 This framing has largely been generally superceded in mathenatics and philosophy by **predicate logic** in modern applications, but the core ideas remain.
 
+#### And (Conjunction)
+
+| P | Q | $P \land Q$ |
+| --- | --- | --- |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
+#### Or (Disjunction)
+
+| P | Q | $P \lor Q$ |
+| --- | --- | --- |
+| T | T | T |
+| T | F | T |
+| F | T | T |
+| F | F | F |
+
+#### Not (Negation)
+
+| P | $\neg P$ |
+| --- | --- |
+| T | F |
+| F | T |
+
+
+### Modern Movements
+
 Threads of [transhumanism](https://en.wikipedia.org/wiki/Transhumanism), the idea that we can use of technology to enhance the human condition, and [technological utopianism](https://en.wikipedia.org/wiki/Technological_utopianism), the idea that science and technology can fulfill utopian ideals, are part of the fabric of modern thought.
 
 > In the promises of transhumanism and some posthumanist currents of thought, which seek an enhanced and almost disembodied humanity, we recognize a yearning that is of concern to us, namely the need for a fuller life, less exposed to limitations and suffering.
 >
 > Pope Leo XIV [@LeoXIV2026]
-
