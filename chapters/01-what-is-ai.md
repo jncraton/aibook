@@ -15,7 +15,7 @@ AI is not magic. Many simple computer programs, from spell checkers to tic-tac-t
 
 ### Who is this book for?
 
-This book is for anyone wanting to learn more about artificial intellgence. Many such books already exist, this one attempts to be distinctive in the following ways. It is:
+This book is for anyone wanting to learn more about artificial intelligence. Many such books already exist, this one attempts to be distinctive in the following ways. It is:
 
 - Short - Many texts are very long, as this is an expansive and ever growing field. This book seeks to be as short as possible while not being shorter than that.
 - Succinct - This book seeks to only use many words if a few are not good enough.
@@ -24,7 +24,7 @@ This book is for anyone wanting to learn more about artificial intellgence. Many
 
 ## Disciplines
 
-Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particlar, we will explore the field by way of the following six more specific disciplines:
+Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particular, we will explore the field by way of the following six more specific disciplines:
 
 - **Natural language processing** allows machines to communicate using English or other human languages.
 - **Knowledge representation** is the storage a retrieval of knowledge and information.
@@ -62,6 +62,6 @@ Are humans intelligent? How would we know? Most definitions of intelligence assu
 - What is intelligence?
 - How do we measure intelligence?
 - Are there different types of intelligence?
-- How do we determine if an animal is inellgent?
-- How is knowledge aquired?
+- How do we determine if an animal is intelligent?
+- How is knowledge acquired?
 - Do definitions of intelligence vary between cultures?

@@ -22,7 +22,7 @@ Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllog
 > Socrates is a man.  
 > Therefore, Socrates is mortal.  
 
-This framing has largely been generally superceded in mathenatics and philosophy by **predicate logic** in modern applications, but the core ideas remain.
+This framing has largely been generally superseded in mathematics and philosophy by **predicate logic** in modern applications, but the core ideas remain.
 
 #### And (Conjunction)
 
@@ -49,13 +49,13 @@ This framing has largely been generally superceded in mathenatics and philosophy
 | T | F |
 | F | T |
 
-## Automotons
+## Automatons
 
 An **automaton** is a relatively self-operating machine. Humans have been building automatons in various forms for as long as they have been building machines.
 
-![Mechanical Pinochio](https://upload.wikimedia.org/wikipedia/commons/4/4a/Mechanical_Pinochio.gif)
+![Mechanical Pinocchio](https://upload.wikimedia.org/wikipedia/commons/4/4a/Mechanical_Pinochio.gif)
 
-Automata generally follow pre-determined instructions. They were build during the hellensitic period up through modern times.
+Automata generally follow pre-determined instructions. They were build during the Hellenistic period up through modern times.
 
 ![Vaucanson's duck](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Digesting_Duck.jpg/1280px-Digesting_Duck.jpg)
 
@@ -81,7 +81,7 @@ Games have long played a role in the development and testing of artificial intel
 
 ![Dartmouth Hall](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dartmouth_Hall_at_Dartmouth_College.jpg/1280px-Dartmouth_Hall_at_Dartmouth_College.jpg)
 
-The modern history of artificial intelligence research is often cited as beginning in the summer of 1956 at the **Dartmouth workshop**. It was co-organized by Marvin Minsky, John McCarthy, Nathaniel Rochester, and Claude Shannon. The focus of the work was to model and sumulate numerous aspects of intelligence with computers.
+The modern history of artificial intelligence research is often cited as beginning in the summer of 1956 at the **Dartmouth workshop**. It was co-organized by Marvin Minsky, John McCarthy, Nathaniel Rochester, and Claude Shannon. The focus of the work was to model and simulate numerous aspects of intelligence with computers.
 
 > The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. @mccarthy2006proposal
 
@@ -93,7 +93,7 @@ As has often been the case with the field of AI research, the researchers may no
 
 > We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer. @mccarthy2006proposal
 
-### Modern Philosphy
+### Modern Philosophy
 
 Threads of **transhumanism**, the idea that we can use of technology to enhance the human condition, and **technological utopianism**, the idea that science and technology can fulfill utopian ideals, are part of the fabric of modern thought.
 

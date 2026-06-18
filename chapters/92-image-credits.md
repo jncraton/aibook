@@ -15,7 +15,7 @@
 - [Maillardet automaton](https://commons.wikimedia.org/wiki/File:Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg)
 - [A hedge maze](https://commons.wikimedia.org/wiki/File:Longleat-maze.jpg)
 - [Maze](https://commons.wikimedia.org/wiki/File:Maze_simple.svg)
-- [Mechanical Pinochio](https://commons.wikimedia.org/wiki/File:Mechanical_Pinochio.gif)
+- [Mechanical Pinocchio](https://commons.wikimedia.org/wiki/File:Mechanical_Pinochio.gif)
 - [Mules working in the Grand Canyon](https://commons.wikimedia.org/wiki/File:Mule_train.jpg)
 - [A robotic vacuum](https://commons.wikimedia.org/wiki/File:Roomba_original.jpg)
 - [Service dog in training](https://commons.wikimedia.org/wiki/File:Service_dog_in_training_resting.jpg)
