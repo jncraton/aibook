@@ -2,7 +2,7 @@ all: index.html index.epub
 
 chapters = $(wildcard chapters/*.md)
 
-index.%: $(chapters) chapters/media/phototropism.gif
+index.%: $(chapters) style.css chapters/media/phototropism.gif
 	pandoc $(chapters) --css style.css --extract-media=./media --request-header="User-Agent:pandoc/1.0 (jncraton@gmail.com)" --bibliography ref.bib --csl ieee.csl -f markdown+citations --lua-filter wp.lua --standalone --citeproc --toc -o $@
 
 chapters/media/phototropism.gif:
