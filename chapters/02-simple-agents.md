@@ -8,18 +8,14 @@ A robotic vacuum could be implemented a simple reflex-based agent, though it wou
 
 ![A robotic vacuum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Roomba_original.jpg/330px-Roomba_original.jpg)
 
-## Project
-
-https://github.com/jncraton/vacuum
+One way to implement a turn-based agent is a function that accepts percepts and possible actions, selects an action when called, and is called repeatedly to allow the agent to interact with the environment. The following is the description of a simple agent function for a basic robotic vacuum:
 
 ```python
-def agent(percepts, available_actions, previous_actions, state):
+def agent(percepts, available_actions):
     """Handle one agent turn
 
     :param percepts: dictionary of current percepts (sensor data)
     :param available_actions: List of valid actions
-    :param previous_actions: List of all previous actions (most recent last)
-    :param state: Initially empty dictionary that can be used to store
     state between calls to the agent function
 
     Percept descriptions
@@ -39,3 +35,9 @@ def agent(percepts, available_actions, previous_actions, state):
     Returns exactly one action from list of valid actions
     """
 ```
+
+It may seem like cheating to break vacumming into a turn-based project, but this is a very common technique used in computing. As humans, we have the experience or perceiving the world continuously, but digital computers do not operate this way. They operate in **discrete time**, performing steps one after another, but extremely rapidly, usually at least millions of times every second.
+
+## Project
+
+https://github.com/jncraton/vacuum
