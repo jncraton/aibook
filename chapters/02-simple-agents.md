@@ -38,6 +38,12 @@ def agent(percepts, available_actions):
 
 It may seem like cheating to break vacuuming into a turn-based project, but this is a very common technique used in computing. As humans, we have the experience or perceiving the world continuously, but digital computers do not operate this way. They operate in **discrete time**, performing steps one after another, but extremely rapidly, usually at least millions of times every second.
 
+## Rationality
+
+**Rationality** in agents can be measured by some external evaluator. If the agent is supposed to vacuum the house, did it do so? How long did it take?
+
+Right behaviors can be hard to determine. It may be the case that agents discover unexpected behaviors that produce desired outcomes while being thought to be substandard by an evaluator. One example of this is AlphaGo's **move 37** that was not the sort of move that most human players would have considered, as Paolo Bory noted "the narrative of AlphaGo's move 37, together with the narrative surrounding the following matches, represents a step forward in the human-machine interaction: the machine can think differently, and a new form of dialogue with artificial minds is possible" @bory2019deep.
+
 ## Project
 
 The following project explores this vacuuming agent in more detail:
