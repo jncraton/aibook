@@ -40,4 +40,12 @@ It may seem like cheating to break vacumming into a turn-based project, but this
 
 ## Project
 
+The following project explores this vacuuming agent in more detail:
+
 https://github.com/jncraton/vacuum
+
+## Wonderings
+
+- What are the limitations of a simple reflex-based agent?
+- How could a reflex-based agent be enhanced?
+- What problems can be adequately solved by simple agents?
