@@ -20,7 +20,7 @@ This is still more complex than we need for a simple count. We don't actually ca
 
 ![Threshold applied](chapters/media/bricks-4-threshold.png)
 
-From here, we can apply an algorithm for **connected-compnent labeling** by scanning the image for black pixels, incrementing a counter, and marking all connected pixels using **flood fill**.
+From here, we can apply an algorithm for **connected-component labeling** by scanning the image for black pixels, incrementing a counter, and marking all connected pixels using **flood fill**.
 
 ## Application
 
