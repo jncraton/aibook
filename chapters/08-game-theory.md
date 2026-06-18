@@ -1,5 +1,7 @@
 # Game Theory and Adversarial Search
 
+![Go](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Go_--_2021_--_6746.jpg/1280px-Go_--_2021_--_6746.jpg)
+
 ![Move sequence in Tic-Tac-Toe](https://upload.wikimedia.org/wikipedia/commons/1/1b/Tic-tac-toe-game-1.svg)
 
 ## Excercise
