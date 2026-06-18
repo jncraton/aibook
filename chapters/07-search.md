@@ -1,8 +1,174 @@
 # Search
 
-- Breadth-first search
-- A*
-- Mazes
+![Maze](https://upload.wikimedia.org/wikipedia/commons/8/88/Maze_simple.svg)
+
+Planning
+--------
+
+- The correct action is not always obvious
+- It can be helpful to consider a series of possible actions
+- We must then *search* for optimal outcomes
+
+Goal Formulation
+----------------
+
+- Problem-solving agents need an understanding of a goal to achieve
+- Examples include checkmating the opponents king or arriving in at a particular destination
+
+Problem Formulation
+-------------------
+
+- Agent comes up with a description of states and action to get to reach the goal
+- This represents an abstract model for relevant part of the environment
+
+Search
+------
+
+- Simulate sequences of actions without taking them in the real world
+- Store sequences that reach the goal
+- Select the optimal sequence
+
+Execution
+---------
+
+- Execute the selected sequence of actions in turn to arrive at the goal
+
+Open-loop
+---------
+
+- Open-loop - the proper solution is a fixed sequence of actions
+- Actions can be executed ignoring percepts
+- Closed-loop - the situation may change during execution and additional planning may be needed
+
+Search Problem
+--------------
+
+- State space - Possible environment states
+- Initial state - Starting state of agent
+- Goal state - State representing success
+- Actions - Set of possible actions from a given state
+- Transition Model - Describes resultant state for an action
+- Cost function - Measure of the value of a particular action in the model
+
+Paths
+-----
+
+- Path - Sequence of actions
+- Solution - a path that arrives at a goal state
+- Optimal solution - lowest path cost solution
+
+Graph
+-----
+
+- The search can be represented as a graph
+- States are vertices
+- Actions are edges
+- Costs are edge weights
+
+![Shortest Path From A to F](https://upload.wikimedia.org/wikipedia/commons/3/3b/Shortest_path_with_direct_weights.svg)
+
+Abstraction
+-----------
+
+- It is important that we choose the right level of abstraction for our search
+- Too much detail creates a larger search space
+- Too little detail creates suboptimal solutions
+
+Search Algorithms
+================
+
+---
+
+A search algorithm takes as input a search problem and returns a valid solution
+
+Process
+-------
+
+- Begin at the start state
+- Expand the node by considering possible actions
+- Generate a new node for each resultant state
+- Continue this process
+
+Frontier
+--------
+
+- Nodes in the search tree that have not been expanded
+- A node that has been generated (whether expanded or not) has been **reached**
+
+---
+
+How do we decide which node to expand next as we search?
+
+Best First Search
+-----------------
+
+- Choose the node with the minimal value for some evaluation function
+- e.g. shortest distance to the final destination
+
+Dijkstra's Algorithm
+--------------------
+
+- Best First Search using path cost as the evaluation function
+- Also known as *Uniform-Cost Search* in AI and when the search graph is expanded on the fly
+
+---
+
+![Dijkstra's Algorithm](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif){height=540px}
+
+Breadth First Search
+--------------------
+
+- Expand all nodes on the same level of the tree before moving to the next level
+- Identical to best-first search using node depth as the evaluation function
+
+Depth First Search
+------------------
+
+- Fully expand the first node before moving to the next
+- May not return optimal solution
+
+---
+
+Why would we use depth first search?
+
+Memory
+------
+
+- Depth first search requires linear rather than exponential memory
+- Depth first search uses a very basic recursive algorithm
+
+Depth-First Search
+------------------
+
+```
+procedure DFS(G, v) is
+    label v as reached
+    for all directed edges from v to w that are in G.adjacentEdges(v) do
+        if vertex w is not labeled as reached then
+            recursively call DFS(G, w)
+```
+
+Performance
+-----------
+
+- Searching a nearly infinite space will take nearly infinite time
+- Using highly optimized software can help
+- Using very powerful hardware can help
+
+Heuristics
+----------
+
+- It is often much more efficient to pursue a course that is good enough, but not optimal
+- We can employ various metrics to determine whether a course is likely to result in a positive outcome
+- A heuristic is **admissible** if it never overestimates the cost of reaching the goal (the estimate won't cause us to miss the shortest path)
+
+## A*
+
+![A* with 0 heuristic (uniform cost search)](https://upload.wikimedia.org/wikipedia/commons/2/23/Dijkstras_progress_animation.gif)
+
+![A* with admissible heuristic](https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif)
+
+![A* with inadmissible heuristic](https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif)
 
 ## Exercise
 
