@@ -38,7 +38,7 @@ def main():
     with open('chapters/92-image-credits.md', 'w', encoding='utf-8') as f:
         f.write('# Image Credits\n\n')
         for page, alt in sorted(credits.items()):
-            f.write(f'- [{alt}]({page})\n')
+            f.write(f'- [{alt}]({page}) ({page})\n')
 
 if __name__ == '__main__':
     main()
