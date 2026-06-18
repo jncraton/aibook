@@ -44,6 +44,10 @@ It may seem like cheating to break vacuuming into a turn-based project, but this
 
 Right behaviors can be hard to determine. It may be the case that agents discover unexpected behaviors that produce desired outcomes while being thought to be substandard by an evaluator. One example of this is AlphaGo's **move 37** that was not the sort of move that most human players would have considered, as Paolo Bory noted "the narrative of AlphaGo's move 37, together with the narrative surrounding the following matches, represents a step forward in the human-machine interaction: the machine can think differently, and a new form of dialogue with artificial minds is possible" @bory2019deep.
 
+One way to define rationality is:
+
+> For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built-in knowledge the agent has @russell1995modern
+
 ## Project
 
 The following project explores this vacuuming agent in more detail:
