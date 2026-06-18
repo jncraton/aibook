@@ -19,4 +19,4 @@ spellcheck:
 
 clean:
 	rm -f *.epub *.pdf *.html chapters/media/*.gif
-	rm -rf chunkedhtml
+	rm -rf chunkedhtml media
