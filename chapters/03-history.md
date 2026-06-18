@@ -6,6 +6,14 @@
 >
 > Jostien Gaarder @gaarder1994sophie
 
+### Knowledge
+
+In his **allegory of the cave** @plato2008republic, Plato established the idea that world as it is stands distinct from the world as it is experienced. Much of philosophy, artificial intelligence, and the human experience involves the work of transforming direct perception into greater working knowledge of that which is real.
+
+> For now we see through a mirror dimly
+>
+> Saint Paul @bibles2007esv
+
 ### Formal Logic
 
 Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllogisms**, concrete rules for logical arguments that apply deductive reasoning to arrive at conclusions based on propositions. The task of formalizing thinking, reasoning, and knowledge has been one of the primary focuses of philosophy since that time. A common example of this is @mill1904system:
