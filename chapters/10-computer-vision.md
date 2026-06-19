@@ -22,6 +22,8 @@ This is still more complex than we need for a simple count. We don't actually ca
 
 From here, we can apply an algorithm for **connected-component labeling** by scanning the image for black pixels, incrementing a counter, and marking all connected pixels using **flood fill**.
 
+![Connected-component search](chapters/media/bricks-5-search.gif)
+
 ## Application
 
 The brick counter described in this chapter is available as a project to complete here:
