@@ -58,11 +58,11 @@ It is clear that we are unable to clearly define what intelligence is. It theref
 | Performance (rows) x Generality (columns) | Narrow <br> clearly scoped task or set of tasks | General <br> wide range of non-physical tasks, including metacognitive abilities like learning new skills |
 | :--- | :--- | :--- |
 | Level 0: No AI | Narrow Non-AI <br> calculator software; compiler | General Non-AI <br> human-in-the-loop computing, e.g., Amazon Mechanical Turk |
-| Level 1: Emerging <br> equal to or somewhat better than an unskilled human | Emerging Narrow AI <br> GOFAI (Boden, 2014); simple rule-based systems, e.g., SHRDLU (Winograd, 1971) | Emerging AGI <br> ChatGPT (OpenAI, 2023), Bard (Anil et al., 2023), Llama 2 (Touvron et al., 2023), Gemini (Pichai and Hassabis, 2023) |
-| Level 2: Competent <br> at least 50th percentile of skilled adults | Competent Narrow AI <br> toxicity detectors such as Jigsaw (Das et al., 2022); Smart Speakers such as Siri (Apple), Alexa (Amazon), or Google Assistant (Google); VQA systems such as PaLI (Chen et al., 2023); Watson (IBM); SOTA LLMs for a subset of tasks (e.g., short essay writing, simple coding) | Competent AGI <br> not yet achieved |
-| Level 3: Expert <br> at least 90th percentile of skilled adults | Expert Narrow AI <br> spelling & grammar checkers such as Grammarly (Grammarly, 2023); generative image models such as Imagen (Saharia et al., 2022) or Dall-E 2 (Ramesh et al., 2022) | Expert AGI <br> not yet achieved |
-| Level 4: Virtuoso <br> at least 99th percentile of skilled adults | Virtuoso Narrow AI <br> Deep Blue (Campbell et al., 2002), AlphaGo (Silver et al., 2016, 2017) | Virtuoso AGI <br> not yet achieved |
-| Level 5: Superhuman <br> outperforms 100% of humans | Superhuman Narrow AI <br> AlphaFold (Jumper et al., 2021; Varadi et al., 2021), AlphaZero (Silver et al., 2018), StockFish (Stockfish, 2023) | Artificial Superintelligence (ASI) <br> not yet achieved |
+| Level 1: Emerging <br> equal to or somewhat better than an unskilled human | Emerging Narrow AI <br> GOFAI (Boden, 2014); simple rule-based systems, e.g., SHRDLU (Winograd, 1971) | Emerging AGI <br> ChatGPT @achiam2023gpt, Gemini @team2023gemini |
+| Level 2: Competent <br> at least 50th percentile of skilled adults | Competent Narrow AI <br> Smart Speakers such as Siri (Apple), Alexa (Amazon), or Google Assistant (Google); Watson (IBM); SOTA LLMs for a subset of tasks (e.g., short essay writing, simple coding) | Competent AGI <br> not yet achieved |
+| Level 3: Expert <br> at least 90th percentile of skilled adults | Expert Narrow AI <br> spelling & grammar checkers; generative image models such as Imagen @saharia2022photorealistic | Expert AGI <br> not yet achieved |
+| Level 4: Virtuoso <br> at least 99th percentile of skilled adults | Virtuoso Narrow AI <br> Deep Blue @campbell1999knowledge, AlphaGo @silver2016mastering | Virtuoso AGI <br> not yet achieved |
+| Level 5: Superhuman <br> outperforms 100% of humans | Superhuman Narrow AI <br> AlphaFold @jumper2021highly, AlphaZero @silver2018general, StockFish | Artificial Superintelligence (ASI) <br> not yet achieved |
 
 ## Discussion Questions
 
