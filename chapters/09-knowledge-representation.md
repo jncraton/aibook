@@ -235,8 +235,7 @@ How do expert systems handle uncertainty and incomplete information?
 What are some potential ethical concerns with using expert systems in critical domains?
 
 
-Wikidata
-========
+## Wikidata
 
 Wikipedia
 ---------
