@@ -22,7 +22,7 @@ Over 2300 years ago, Aristotle @barnes1994posterior worked to formulate **syllog
 > Socrates is a man.  
 > Therefore, Socrates is mortal.  
 
-This framing has largely been generally superseded in mathematics and philosophy by **predicate logic** in modern applications, but the core ideas remain.
+This framing has been generally superseded in mathematics and philosophy by **predicate logic** in modern applications, but the core ideas remain.
 
 #### And (Conjunction)
 
