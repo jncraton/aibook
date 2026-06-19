@@ -45,17 +45,15 @@ Are insects intelligent? How would we know? They clearly interact with their env
 
 ![Ants building a bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AntBridge_Crossing_10.jpg/1280px-AntBridge_Crossing_10.jpg)
 
-Are mammals intelligent? How would we know? We have been able to use mammals in various ways to improve our own lives.
-
-![Service dog in training](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Service_dog_in_training_resting.jpg/1280px-Service_dog_in_training_resting.jpg)
+Are mammals intelligent? We have been able to use mammals in various ways to improve our own lives.
 
 ![Mules working in the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mule_train.jpg/1280px-Mule_train.jpg)
 
-Are humans intelligent? How would we know? Most definitions of intelligence assume that humans reside within this category, but how and when does intelligence develop? There are surely differences between a baby, child, and an adult.
-
-![8-month-old human child](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Baby_Face.JPG/1280px-Baby_Face.JPG)
+Are humans intelligent? Most definitions of intelligence assume that humans reside within this category, but how and when does intelligence develop? There are surely differences between a baby, child, and an adult. How would we appropriately measure differences in intelligence?
 
 ![Sipke Ernst versus Magnus Carlsen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ErnstCarlsenWijkaanZee2004.jpg/1280px-ErnstCarlsenWijkaanZee2004.jpg)
+
+It is clear that we are unable to clearly define what intelligence is. It therefore becomes difficult to measure progress in artificial intelligence.
 
 ## Discussion Questions
 
