@@ -74,10 +74,7 @@ Abstraction
 - Too much detail creates a larger search space
 - Too little detail creates suboptimal solutions
 
-Search Algorithms
-================
-
----
+## Search Algorithms
 
 A search algorithm takes as input a search problem and returns a valid solution
 
