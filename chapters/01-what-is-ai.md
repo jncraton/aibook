@@ -17,9 +17,8 @@ AI is not magic. Many simple computer programs, from spell checkers to tic-tac-t
 
 This book is for anyone wanting to learn more about artificial intelligence. Many such books already exist, this one attempts to be distinctive in the following ways. It is:
 
-- Short - Many texts are very long, as this is an expansive and ever growing field. This book seeks to be as short as possible while not being shorter than that.
-- Succinct - This book seeks to only use many words if a few are not good enough.
 - Simple - This book does not intend to introduce the state of the art. It is meant to be an introduction to the field as a whole.
+- Succinct - This book seeks to be as short as possible while not being shorter than that.
 - Applied - Learning happens by doing. Example problems are provided along the way to ensure complete understanding. It will be beneficial to complete these problems as you go.
 
 ## Disciplines
