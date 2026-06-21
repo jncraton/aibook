@@ -60,3 +60,7 @@ pre {
   overflow-x: auto;
   border-radius: 5px;
 }
+
+thead, tbody {
+  vertical-align: top;
+}
