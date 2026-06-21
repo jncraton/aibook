@@ -35,7 +35,7 @@ Are humans intelligent? Most definitions of intelligence assume that humans resi
 
 Intelligence is difficult to define, and this makes it difficult to measure progress in artificial intelligence. One approach is to split AI progress into axes of performance and breadth. We can clearly outperform humans in specific areas, but it is harder for an AI to be performant in all areas. The following table is one attempt to lay this out @morris2023levels:
 
-| Performance (rows) x Generality (columns) | Narrow <br> clearly scoped task or set of tasks | General <br> wide range of non-physical tasks, including metacognitive abilities like learning new skills |
+| | Narrow | General |
 | :--- | :--- | :--- |
 | Level 0: No AI | Narrow Non-AI <br> calculator software; compiler | General Non-AI <br> human-in-the-loop computing, e.g., Amazon Mechanical Turk |
 | Level 1: Emerging <br> equal to or somewhat better than an unskilled human | Emerging Narrow AI <br> GOFAI (Boden, 2014); simple rule-based systems, e.g., SHRDLU (Winograd, 1971) | Emerging AGI <br> ChatGPT @achiam2023gpt, Gemini @team2023gemini |
