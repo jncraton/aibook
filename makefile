@@ -18,5 +18,5 @@ spellcheck:
 	for f in chapters/*.md; do aspell --home-dir=. --check --dont-backup "$$f"; done
 
 clean:
-	rm -f *.epub *.pdf *.html
+	rm -f *.epub *.pdf *.html chapters/media/phototropism.gif
 	rm -rf dist media
