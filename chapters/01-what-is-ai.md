@@ -33,7 +33,7 @@ Are humans intelligent? Most definitions of intelligence assume that humans resi
 
 ![Sipke Ernst versus Magnus Carlsen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ErnstCarlsenWijkaanZee2004.jpg/1280px-ErnstCarlsenWijkaanZee2004.jpg)
 
-It is clear that we are unable to clearly define what intelligence is. It therefore becomes difficult to measure progress in artificial intelligence. One approach is to split AI progress into axes of performance and breadth. We can clearly outperform humans in specific areas, but it is harder for an AI to be performance in all areas. The following table is one attempt to lay this out @morris2023levels:
+Intelligence is difficult to define, and this makes it difficult to measure progress in artificial intelligence. One approach is to split AI progress into axes of performance and breadth. We can clearly outperform humans in specific areas, but it is harder for an AI to be performant in all areas. The following table is one attempt to lay this out @morris2023levels:
 
 | Performance (rows) x Generality (columns) | Narrow <br> clearly scoped task or set of tasks | General <br> wide range of non-physical tasks, including metacognitive abilities like learning new skills |
 | :--- | :--- | :--- |
