@@ -13,20 +13,9 @@
 
 AI is not magic. Many simple computer programs, from spell checkers to tic-tac-toe bots can be considered artificial intelligence. In popular culture, the term may mean something more. There are fears that AI will replace the work of humans. If your role involves checking spelling or playing tic-tac-toe, perhaps you should be concerned about this. Otherwise, our time may be better spent exploring and understanding this science and our human role applying it.
 
-## Disciplines
-
-Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particular, we will explore the field by way of the following six more specific disciplines:
-
-- **Natural language processing** allows machines to communicate using English or other human languages.
-- **Knowledge representation** is the storage a retrieval of knowledge and information.
-- **Automated reasoning** chains knowledge and facts logically to produce correct results.
-- **Machine learning** allows computers to improve by explore data or the world.
-- **Computer vision** give systems tools to interpret and transform visual data.
-- **Robotics** allows computers to interact with and manipulate the physical world.
-
 ## Intelligence
 
-It can be difficult to define intelligence itself. Let us explore questions, rather than to create simplistic answers.
+Intelligence is a complex idea with no singular agreed upon definition.
 
 Are plants intelligent? How would we know? They don't seem to have brains or minds, yet they can change their behaviors based on stimulus from the environment, such as via **phototropism**:
 
@@ -36,7 +25,7 @@ Are insects intelligent? How would we know? They clearly interact with their env
 
 ![Ants building a bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AntBridge_Crossing_10.jpg/1280px-AntBridge_Crossing_10.jpg)
 
-Are mammals intelligent? We have been able to use mammals in various ways to improve our own lives.
+Are mammals intelligent? We have been able to train mammals in various ways to improve our own lives.
 
 ![Mules working in the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mule_train.jpg/1280px-Mule_train.jpg)
 
@@ -54,6 +43,17 @@ It is clear that we are unable to clearly define what intelligence is. It theref
 | Level 3: Expert <br> at least 90th percentile of skilled adults | Expert Narrow AI <br> spelling & grammar checkers; generative image models such as Imagen @saharia2022photorealistic | Expert AGI <br> not yet achieved |
 | Level 4: Virtuoso <br> at least 99th percentile of skilled adults | Virtuoso Narrow AI <br> Deep Blue @campbell1999knowledge, AlphaGo @silver2016mastering | Virtuoso AGI <br> not yet achieved |
 | Level 5: Superhuman <br> outperforms 100% of humans | Superhuman Narrow AI <br> AlphaFold @jumper2021highly, AlphaZero @silver2018general, StockFish | Artificial Superintelligence (ASI) <br> not yet achieved |
+
+## Disciplines
+
+Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particular, we will explore the field by way of the following six more specific disciplines:
+
+- **Natural language processing** allows machines to communicate using English or other human languages.
+- **Knowledge representation** is the storage a retrieval of knowledge and information.
+- **Automated reasoning** chains knowledge and facts logically to produce correct results.
+- **Machine learning** allows computers to improve by explore data or the world.
+- **Computer vision** give systems tools to interpret and transform visual data.
+- **Robotics** allows computers to interact with and manipulate the physical world.
 
 ## Discussion Questions
 
