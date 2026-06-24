@@ -42,8 +42,8 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 
 | | Narrow | General |
 | :--- | :--- | :--- |
-| Level 0: No AI | Narrow Non-AI <br> calculator software; compiler | General Non-AI <br> human-in-the-loop computing, e.g., Amazon Mechanical Turk |
-| Level 1: Emerging <br> equal to or somewhat better than an unskilled human | Emerging Narrow AI <br> GOFAI (Boden, 2014); simple rule-based systems, e.g., SHRDLU (Winograd, 1971) | Emerging AGI <br> ChatGPT @achiam2023gpt, Gemini @team2023gemini |
+| Level 0: No AI | Narrow Non-AI <br> **calculator** | General Non-AI <br> human-in-the-loop computing (such as **MTurk**) |
+| Level 1: Emerging <br> equal to or somewhat better than an unskilled human | Emerging Narrow AI <br> **GOFAI** and rule-based systems such as **SHRDLU** @winograd1972understanding | Emerging AGI <br> ChatGPT @achiam2023gpt or Gemini @team2023gemini |
 | Level 2: Competent <br> at least 50th percentile of skilled adults | Competent Narrow AI <br> Smart Speakers such as Siri (Apple), Alexa (Amazon), or Google Assistant (Google); Watson (IBM); SOTA LLMs for a subset of tasks (e.g., short essay writing, simple coding) | Competent AGI <br> not yet achieved |
 | Level 3: Expert <br> at least 90th percentile of skilled adults | Expert Narrow AI <br> spelling & grammar checkers; generative image models such as Imagen @saharia2022photorealistic | Expert AGI <br> not yet achieved |
 | Level 4: Virtuoso <br> at least 99th percentile of skilled adults | Virtuoso Narrow AI <br> Deep Blue @campbell1999knowledge, AlphaGo @silver2016mastering | Virtuoso AGI <br> not yet achieved |
