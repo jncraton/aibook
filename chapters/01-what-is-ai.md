@@ -21,7 +21,12 @@ Are plants intelligent? How would we know? They don't seem to have brains or min
 
 ![Phototropism](chapters/media/phototropism.gif)
 
+Some plants can even trap and digest prey.
+
+![Dionaea muscipula closing trap](https://upload.wikimedia.org/wikipedia/commons/9/9d/Dionaea_muscipula_closing_trap_animation.gif)
+
 Are insects intelligent? How would we know? They clearly interact with their environment. They may also be able to collaborate with one another to complete larger projects.
+
 
 ![Ants building a bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AntBridge_Crossing_10.jpg/1280px-AntBridge_Crossing_10.jpg)
 
