@@ -57,13 +57,13 @@ An **automaton** is a relatively self-operating machine. Humans have been buildi
 
 Automata generally follow pre-determined instructions. They were build during the Hellenistic period up through modern times.
 
-![Vaucanson's duck](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Digesting_Duck.jpg/1280px-Digesting_Duck.jpg)
+![Vaucanson's duck](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Digesting_Duck.jpg/960px-Digesting_Duck.jpg)
 
 ![Maillardet automaton](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg/960px-Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg)
 
 An **artificial neuron** was first idealized by Walter Pitts and Warren McCulloch in 1943 @mcculloch1943logical. They theorized that these neurons could be combined into structure that we similar in function to the human brain.
 
-![Artificial Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Artificial_neuron_structure.svg/1280px-Artificial_neuron_structure.svg.png)
+![Artificial Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Artificial_neuron_structure.svg/960px-Artificial_neuron_structure.svg.png)
 
 Cybernetic robots began to be developed in the 1940s. They did not use modern digital computers, but were controlled entirely using analog circuits. One early example is the **turtle robot** designed in the 1940s largely by William Grey Walter.
 
@@ -79,7 +79,7 @@ Games have long played a role in the development and testing of artificial intel
 
 ## Dartmouth Workshop
 
-![Dartmouth Hall](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dartmouth_Hall_at_Dartmouth_College.jpg/1280px-Dartmouth_Hall_at_Dartmouth_College.jpg)
+![Dartmouth Hall](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dartmouth_Hall_at_Dartmouth_College.jpg/960px-Dartmouth_Hall_at_Dartmouth_College.jpg)
 
 The modern history of artificial intelligence research is often cited as beginning in the summer of 1956 at the **Dartmouth workshop**. It was co-organized by Marvin Minsky, John McCarthy, Nathaniel Rochester, and Claude Shannon. The focus of the work was to model and simulate numerous aspects of intelligence with computers.
 

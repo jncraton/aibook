@@ -28,15 +28,15 @@ Some plants can even trap and digest prey.
 Are insects intelligent? How would we know? They clearly interact with their environment. They may also be able to collaborate with one another to complete larger projects.
 
 
-![Ants building a bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AntBridge_Crossing_10.jpg/1280px-AntBridge_Crossing_10.jpg)
+![Ants building a bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AntBridge_Crossing_10.jpg/960px-AntBridge_Crossing_10.jpg)
 
 Are mammals intelligent? We have been able to train mammals in various ways to improve our own lives.
 
-![Mules working in the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mule_train.jpg/1280px-Mule_train.jpg)
+![Mules working in the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mule_train.jpg/960px-Mule_train.jpg)
 
 Are humans intelligent? Most definitions of intelligence assume that humans reside within this category, but how and when does intelligence develop? There are surely differences between a baby, child, and an adult. How would we appropriately measure differences in intelligence?
 
-![Sipke Ernst versus Magnus Carlsen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ErnstCarlsenWijkaanZee2004.jpg/1280px-ErnstCarlsenWijkaanZee2004.jpg)
+![Sipke Ernst versus Magnus Carlsen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ErnstCarlsenWijkaanZee2004.jpg/960px-ErnstCarlsenWijkaanZee2004.jpg)
 
 Intelligence is difficult to define, and this makes it difficult to measure progress in artificial intelligence. One approach is to split AI progress into axes of performance and breadth. We can clearly outperform humans in specific areas, but it is harder for an AI to be performant in all areas. The following table is one attempt to lay this out @morris2023levels:
 

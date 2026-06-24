@@ -173,4 +173,4 @@ The following exercise provides an opportunity to construct an agent to solve ma
 
 https://github.com/jncraton/maze-search
 
-![A hedge maze](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Longleat-maze.jpg/1280px-Longleat-maze.jpg)
+![A hedge maze](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Longleat-maze.jpg/960px-Longleat-maze.jpg)
