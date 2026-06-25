@@ -48,6 +48,8 @@ plt.savefig('penguins-regression.png')
 
 We can use the properties of the best fit line to predict flipper length for any penguin after we weigh it.
 
+Machine learning is not conceptually complex, but as the models we fit become more complex so do the algorithms needed to fit them and the problems they are able to solve. Our simple line has only two parameters. A more complex model may have trillions @ai2026kimi.
+
 ## TODO
 
 - Dot product
