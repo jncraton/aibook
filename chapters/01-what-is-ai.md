@@ -19,7 +19,7 @@ Intelligence is a complex idea with no singular agreed upon definition.
 
 Are plants intelligent? How would we know? They don't seem to have brains or minds, yet they can change their behaviors based on stimulus from the environment, such as via **phototropism**:
 
-![Phototropism](https://commons.wikimedia.org/wiki/File:Phototropism_in_Solanum_lycopersicum.gif)
+![Phototropism](https://upload.wikimedia.org/wikipedia/commons/0/05/Phototropism_in_Solanum_lycopersicum.gif)
 
 Some plants can even trap and digest prey.
 
