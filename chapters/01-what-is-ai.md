@@ -49,6 +49,14 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 | Level 4: Virtuoso <br> at least 99th percentile of skilled adults | Virtuoso Narrow AI <br> Deep Blue @campbell1999knowledge, AlphaGo @silver2016mastering | Virtuoso AGI <br> not yet achieved |
 | Level 5: Superhuman <br> outperforms 100% of humans | Superhuman Narrow AI <br> AlphaFold @jumper2021highly, AlphaZero @silver2018general, StockFish | Artificial Superintelligence (ASI) <br> not yet achieved |
 
+## Experience
+
+One challenge of artificial intelligence is the tendancy to project human traits onto computer programs when they do work that humans might do. This has been referred to as the **ELIZA effect**
+
+> It must be confessed that perception and that which depends upon it are inexplicable on mechanical grounds, that is to say, by means of figures and motions. And supposing there were a machine, so constructed as to think, feel, and have perception, it might be conceived as increased in size, while keeping the same proportions, so that one might go into it as into a mill. That being so, we should, on examining its interior, find only parts which work one upon another, and never anything by which to explain a perception.
+>
+> Liebniz @leibniz1969monadology
+
 ## Disciplines
 
 Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particular, we will explore the field by way of the following six more specific disciplines:
