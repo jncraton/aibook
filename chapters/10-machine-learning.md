@@ -4,7 +4,7 @@
 >
 >  Noam Shazeer @shazeer2020glu
 
-While it is often helpful to design algorithms to efficiently solve specific problems, it can often be helpful to allow the machine to predict outcomes by learning patterns.
+While it is useful to design algorithms to efficiently solve specific problems, it can also be helpful to allow machines to predict outcomes by learning patterns.
 
 ## Linear Regression
 
