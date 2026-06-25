@@ -35,9 +35,6 @@ jobs:
       - name: Install deps
         run: sudo apt install -y pandoc trickle
 
-      - name: Slow network to avoid rate limiting
-        run: sudo tc qdisc add dev eth0 root tbf rate 1024kbit burst 32kbit
-
       - name: Build Site
         run: trickle -d 128 make
 
