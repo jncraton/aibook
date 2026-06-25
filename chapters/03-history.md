@@ -8,7 +8,7 @@
 
 ### Knowledge
 
-In his **allegory of the cave** @plato2008republic, Plato established the idea that world as it is stands distinct from the world as it is experienced. Much of philosophy, artificial intelligence, and the human experience involves the work of transforming direct perception into greater working knowledge of that which is real.
+In his **allegory of the cave** @plato2008republic, Plato established the idea that world as it stands is distinct from the world as it is experienced. Much of philosophy, artificial intelligence, and the human experience involves the work of transforming direct perception into greater working knowledge of that which is real.
 
 > For now we see through a mirror dimly
 >
