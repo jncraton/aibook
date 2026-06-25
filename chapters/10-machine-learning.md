@@ -8,7 +8,7 @@ While it is useful to design algorithms to efficiently solve specific problems, 
 
 ## Linear Regression
 
-What if we want to estimate the lenght of a penguin's flipper? We could measure it, but this seems a little tricky, especially if we are working with a large number of wild penguins.
+What if we want to estimate the length of a penguin's flipper? We could measure it, but this seems a little tricky, especially if we are working with a large number of wild penguins.
 
 ![Gentoo Penguins](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2020-11_Kerguelen_Islands_-_Gentoo_penguin_11.jpg/960px-2020-11_Kerguelen_Islands_-_Gentoo_penguin_11.jpg)
 
