@@ -14,7 +14,7 @@ What if we want to estimate the lenght of a penguin's flipper? We could measure 
 
 What if we could weigh them instead? Could we predict their flipper length? Perhaps we could program a computer to learn this relationship from an appropriate dataset @horst2022palmer. Here's a scatter plot showing penguin flipper length against body mass:
 
-![Flipper length vs body mass](media/penguins-scatter.png)
+![Flipper length vs body mass](chapters/media/penguins-scatter.png)
 
 In order to predict the length of a flipper when only the mass of the penguin is known, we must distill the core idea of this dataset into a formula that we could apply to compute the flipper mass. One simple formula is that of a line:
 
@@ -24,7 +24,7 @@ Lines can be defined by a **slope** and a **Y-intercept**. We could attempt to m
 
 Here's the best fit line produced from our penguin dataset:
 
-![Flipper length vs body mass regression](media/penguins-regression.png)
+![Flipper length vs body mass regression](chapters/media/penguins-regression.png)
 
 We can use the properties of the best fit line to predict flipper length for any penguin after we weigh it.
 
