@@ -33,7 +33,10 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Install deps
-        run: sudo apt install -y pandoc
+        run: sudo apt install -y pandoc tc
+
+      - name: Slow network to avoid rate limiting
+        run: sudo tc qdisc add dev eth0 root tbf rate 1024kbit burst 32kbit
 
       - name: Build Site
         run: make
