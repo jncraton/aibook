@@ -49,13 +49,25 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 | Level 4: Virtuoso <br> at least 99th percentile of skilled adults | Virtuoso Narrow AI <br> Deep Blue @campbell1999knowledge, AlphaGo @silver2016mastering | Virtuoso AGI <br> not yet achieved |
 | Level 5: Superhuman <br> outperforms 100% of humans | Superhuman Narrow AI <br> AlphaFold @jumper2021highly, AlphaZero @silver2018general, StockFish | Artificial Superintelligence (ASI) <br> not yet achieved |
 
-## Experience
+## Understanding
 
-One challenge of artificial intelligence is the tendancy to project human traits onto computer programs when they do work that humans might do. This has been referred to as the **ELIZA effect**
+One challenge for the field artificial intelligence is the tendancy to project human traits onto computer programs when they do work that humans might do. This has been referred to as the **ELIZA effect** after the 1966 ELIZA chatbot @weizenbaum1966eliza. The creator of this early chatbot went on to reflect on this sort of emotional bonding and **Anthropomorphism**:
+
+> I knew of course that peopleform all sorts of emotional bonds to machines, for example, to musical instruments, motorcycles, and cars. And I knew from long ex-perience that the strong emotional ties many programmers have totheir computers are often formed after only short exposures to theirmachines. What I had not realized is that extremely short exposuresto a relatively simple computer program could induce powerful de-lusional thinking in quite normal people. This insight led me toattach new importance to questions of the relationship between theindividual and the computer, and hence to resolve to think about them.
+>
+> Joseph Weizenbaum @weizenbaum1977computer
+
+At the core of this subject is whether or not a machine that performs tasks that a human performs necessarily understands the world as a human understands it. In his 1714 work exploring what his become known as the **Leibniz's gap**, Gottfried Leibniz framed this as follows:
 
 > It must be confessed that perception and that which depends upon it are inexplicable on mechanical grounds, that is to say, by means of figures and motions. And supposing there were a machine, so constructed as to think, feel, and have perception, it might be conceived as increased in size, while keeping the same proportions, so that one might go into it as into a mill. That being so, we should, on examining its interior, find only parts which work one upon another, and never anything by which to explain a perception.
 >
 > Liebniz @leibniz1969monadology
+
+Simply because a machine performs a task does not mean that is produces human-like understanding. This concept has been explored from various angles. Another is John Searle's **Chinese Room** thought experiement that argues for the idea that computational work does not require anything like human understanding:
+
+> I will argue that in the literal sense the programmed computer understands what the car and the adding machine understand, namely, exactly nothing. The computer understanding is not just (like my understanding of German) partial or incomplete; it is zero.
+>
+> John Searle @searle1980minds
 
 ## Disciplines
 
