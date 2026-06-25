@@ -19,6 +19,7 @@
 - [Maze](https://commons.wikimedia.org/wiki/File:Maze_simple.svg) (https://commons.wikimedia.org/wiki/File:Maze_simple.svg)
 - [Mechanical Pinocchio](https://commons.wikimedia.org/wiki/File:Mechanical_Pinochio.gif) (https://commons.wikimedia.org/wiki/File:Mechanical_Pinochio.gif)
 - [Mules working in the Grand Canyon](https://commons.wikimedia.org/wiki/File:Mule_train.jpg) (https://commons.wikimedia.org/wiki/File:Mule_train.jpg)
+- [Phototropism](https://commons.wikimedia.org/wiki/File:Phototropism_in_Solanum_lycopersicum.gif) (https://commons.wikimedia.org/wiki/File:Phototropism_in_Solanum_lycopersicum.gif)
 - [A robotic vacuum](https://commons.wikimedia.org/wiki/File:Roomba_original.jpg) (https://commons.wikimedia.org/wiki/File:Roomba_original.jpg)
 - [Shortest Path From A to F](https://commons.wikimedia.org/wiki/File:Shortest_path_with_direct_weights.svg) (https://commons.wikimedia.org/wiki/File:Shortest_path_with_direct_weights.svg)
 - [Reflex-based agent](https://commons.wikimedia.org/wiki/File:Simple_reflex_agent.png) (https://commons.wikimedia.org/wiki/File:Simple_reflex_agent.png)
