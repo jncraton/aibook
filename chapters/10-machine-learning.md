@@ -26,6 +26,26 @@ Here's the best fit line produced from our penguin dataset:
 
 ![Flipper length vs body mass regression](chapters/media/penguins-regression.png)
 
+This sort of machine learning operation is so common that we can plot best fit lines using only a few lines of Python:
+
+```python
+# /// script
+# dependencies = [
+#     'seaborn',
+# ]
+# ///
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+df = sns.load_dataset('penguins')
+sns.scatterplot(data=df, y='flipper_length_mm', x='body_mass_g')
+plt.savefig('penguins-scatter.png')
+
+sns.lmplot(data=df, y='flipper_length_mm', x='body_mass_g')
+plt.savefig('penguins-regression.png')
+```
+
 We can use the properties of the best fit line to predict flipper length for any penguin after we weigh it.
 
 ## TODO
