@@ -7,7 +7,7 @@ pandocargs = --css style.css --extract-media=./media --request-header="User-Agen
 index.%: $(chapters) style.css
 	pandoc $(chapters) $(pandocargs) -o $@
 
-dist: $(chapters) style.css chapters/media/phototropism.gif
+dist: $(chapters) style.css
 	pandoc $(chapters) $(pandocargs) -t chunkedhtml -o $@
 	cp style.css dist/style.css
 
