@@ -66,11 +66,17 @@ Simply because a machine performs a task does not mean that is produces human-li
 >
 > John Searle @searle1980minds
 
-Still, it is difficult to prove that a computer is *not* thinking as humans think. As Alan Turing put it:
+Still, it is difficult to prove that a computer is *not* thinking as humans think. As **Alan Turing** put it:
 
 > May not machines carry out something which ought to be described as thinking but which is very different from what a human does?
 >
 > Alan Turing @turing2007computing
+
+Turing proposed a test to determine if a machine is intelligent.
+
+![Turing Test](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png)
+
+In the test, an evaluator is allowed to interact with a system using only text without knowing if they are interacting with a human or a computer. If the participant is unable to reliably determine if they are interacting with a human or a computer, then the computer is determined to be intelligent based on the test.
 
 ## Disciplines
 
