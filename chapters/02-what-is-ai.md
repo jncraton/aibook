@@ -68,6 +68,8 @@ Simply because a machine performs a task does not mean that is produces human-li
 
 ## Disciplines
 
+Some have suggested that human intelligence can be divided into mulitple forms @gardner2011frames. We often break down artificial intelligence problems along similar lines.
+
 Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particular, we will explore the field by way of the following six more specific disciplines:
 
 - **Natural language processing** allows machines to communicate using English or other human languages.
