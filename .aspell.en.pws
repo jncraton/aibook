@@ -1,4 +1,4 @@
-personal_ws-1.1 en 112 
+personal_ws-1.1 en 124 
 AGI
 ASI
 Alexa
@@ -18,10 +18,12 @@ Disjunction
 Feigenbaum
 GOFAI
 Gaarder
+Gottfried
 Imagen
 Jostien
 LLM
 LLMs
+Liebniz
 MNIST
 MTurk
 MYCIN
@@ -36,6 +38,8 @@ Paolo
 Rightarrow
 SHRDLU
 SOTA
+Searle
+Searle's
 ShareAlike
 Shazeer
 Sipke
@@ -60,13 +64,16 @@ birthdate
 birthdates
 bory
 campbell
+chatbot
 de
 documentclass
 downsample
 downsampled
+eliza
 embeddings
 esv
 gaarder
+gardner
 gemini
 glu
 gpt
@@ -76,11 +83,13 @@ horst
 json
 kimi
 lang
+leibniz
 lor
 mccarthy
 mcculloch
 minimax
 minsky
+monadology
 morris
 muscipula
 ontologies
@@ -95,6 +104,7 @@ pre
 px
 russell
 saharia
+searle
 shazeer
 snaks
 sophie
@@ -105,9 +115,11 @@ tac
 th
 thresholding
 transhumanism
+turing
 usepackage
 utopian
 utopianism
 vec
+weizenbaum
 wikidata
 winograd

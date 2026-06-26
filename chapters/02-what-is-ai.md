@@ -48,9 +48,9 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 
 ## Understanding
 
-One challenge for the field artificial intelligence is the tendancy to project human traits onto computer programs when they do work that humans might do. This has been referred to as the **ELIZA effect** after the 1966 ELIZA chatbot @weizenbaum1966eliza. The creator of this early chatbot went on to reflect on this sort of emotional bonding and **anthropomorphism**:
+One challenge for the field artificial intelligence is the tendency to project human traits onto computer programs when they do work that humans might do. This has been referred to as the **ELIZA effect** after the 1966 ELIZA chatbot @weizenbaum1966eliza. The creator of this early chatbot went on to reflect on this sort of emotional bonding and **anthropomorphism**:
 
-> I knew of course that people form all sorts of emotional bonds to machines, for example, to musical instruments, motorcycles, and cars. And I knew from long ex-perience that the strong emotional ties many programmers have totheir computers are often formed after only short exposures to theirmachines. What I had not realized is that extremely short exposuresto a relatively simple computer program could induce powerful de-lusional thinking in quite normal people. This insight led me toattach new importance to questions of the relationship between theindividual and the computer, and hence to resolve to think about them.
+> I knew of course that people form all sorts of emotional bonds to machines, for example, to musical instruments, motorcycles, and cars. And I knew from long ex-perience that the strong emotional ties many programmers have to their computers are often formed after only short exposures to their machines. What I had not realized is that extremely short exposures to a relatively simple computer program could induce powerful de-delusional thinking in quite normal people. This insight led me to attach new importance to questions of the relationship between the individual and the computer, and hence to resolve to think about them.
 >
 > Joseph Weizenbaum @weizenbaum1977computer
 
@@ -60,7 +60,7 @@ At the core of this subject is whether or not a machine that performs tasks that
 >
 > Liebniz @leibniz1969monadology
 
-Simply because a machine performs a task does not mean that is produces human-like understanding. This concept has been explored from various angles. Another is John Searle's **Chinese Room** thought experiement that argues for the idea that computational work does not require anything like human understanding:
+Simply because a machine performs a task does not mean that is produces human-like understanding. This concept has been explored from various angles. Another is John Searle's **Chinese Room** thought experiment that argues for the idea that computational work does not require anything like human understanding:
 
 > I will argue that in the literal sense the programmed computer understands what the car and the adding machine understand, namely, exactly nothing. The computer understanding is not just (like my understanding of German) partial or incomplete; it is zero.
 >
@@ -80,7 +80,7 @@ In the test, an evaluator is allowed to interact with a system using only text w
 
 ## Disciplines
 
-Some have suggested that human intelligence can be divided into mulitple forms @gardner2011frames. We often break down artificial intelligence problems along similar lines.
+Some have suggested that human intelligence can be divided into multiple forms @gardner2011frames. We often break down artificial intelligence problems along similar lines.
 
 Throughout this book, we will use formal language to refer to various specific aspects of artificial intelligence. In particular, we will explore the field by way of the following six more specific disciplines:
 
