@@ -66,7 +66,7 @@ Simply because a machine performs a task does not mean that is produces human-li
 >
 > John Searle @searle1980minds
 
-Still, it is difficult to prove that a computer is *not* thinking as humans think. As **Alan Turing** put it:
+Still, it is difficult to prove that a computer is *not* thinking as humans think. As Alan Turing put it:
 
 > May not machines carry out something which ought to be described as thinking but which is very different from what a human does?
 >
