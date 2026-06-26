@@ -4,9 +4,11 @@ In order to be effective in many environments, agents need knowledge about their
 
 Before we can construct a method to store and access data. We need to describe data in a manner in which the computer can handle. This formal description of knowledge is known as an **ontology**.
 
-One way to begin to construct an ontology is to consider different categories of entities using **set theory** and first-order logic. For example, here's one way categorize my shoes:
+One way to begin to construct an ontology is to consider different categories of entities using **set theory** and first-order logic. For example, here's one way categorize my shoe:
 
-$MyShoes \in Shoes \subset Footwear \subset Clothing \subset PhysicalObject$
+$MyShoe \in Shoes \subset Footwear \subset Clothing \subset PhysicalObject \subset Anything$
+
+Breaking that down from left to right, we begin by stating that $MyShoe$ is a member of ($\in$) the $Shoes$ category. $Shoes$ is then a proper subset ($\subset$) of $Footwear$. This pattern follows up a tree of entities rooted at $Anything$.
 
 Knowledge Base
 --------------
