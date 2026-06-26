@@ -1,8 +1,7 @@
-Sources
--------
+# Understanding Agents
 
 [![Deploy](https://github.com/jncraton/aibook/actions/workflows/deploy.yml/badge.svg)](https://github.com/jncraton/aibook/actions/workflows/deploy.yml)
 
-https://raw.githubusercontent.com/BeauJoh/scientific-writing-with-pandoc/refs/heads/master/styles/ieee.csl
+An Introduction to Artificial Intelligence for Humans
 
-[HTML](https://jncraton.github.io/aibook/)
+[Full text (HTML)](https://jncraton.github.io/aibook/)
