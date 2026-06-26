@@ -50,19 +50,19 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 
 One challenge for the field artificial intelligence is the tendency to project human traits onto computer programs when they do work that humans might do. This has been referred to as the **ELIZA effect** after the 1966 ELIZA chatbot @weizenbaum1966eliza. The creator of this early chatbot went on to reflect on this sort of emotional bonding and **anthropomorphism**:
 
-> I knew of course that people form all sorts of emotional bonds to machines, for example, to musical instruments, motorcycles, and cars. And I knew from long experience that the strong emotional ties many programmers have to their computers are often formed after only short exposures to their machines. What I had not realized is that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people. This insight led me to attach new importance to questions of the relationship between the individual and the computer, and hence to resolve to think about them.
+> I knew of course that people form all sorts of emotional bonds to machines, for example, to musical instruments, motorcycles, and cars. And I knew from long experience that the strong emotional ties many programmers have to their computers are often formed after only short exposures to their machines. What I had not realized is that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people.
 >
 > Joseph Weizenbaum @weizenbaum1977computer
 
-At the core of this subject is whether or not a machine that performs tasks that a human performs necessarily understands the world as a human understands it. In his 1714 work exploring what his become known as the **Leibniz's gap**, Gottfried Leibniz framed this as follows:
+At the core of this subject is whether or not a machine that performs tasks that a human performs necessarily understands the world as a human understands it. In his 1714 work exploring what his become known as the **Leibniz's mill**, Gottfried Leibniz framed this as follows:
 
-> It must be confessed that perception and that which depends upon it are inexplicable on mechanical grounds, that is to say, by means of figures and motions. And supposing there were a machine, so constructed as to think, feel, and have perception, it might be conceived as increased in size, while keeping the same proportions, so that one might go into it as into a mill. That being so, we should, on examining its interior, find only parts which work one upon another, and never anything by which to explain a perception.
+> Supposing there were a machine, so constructed as to think, feel, and have perception, it might be conceived as increased in size, while keeping the same proportions, so that one might go into it as into a mill. That being so, we should, on examining its interior, find only parts which work one upon another, and never anything by which to explain a perception.
 >
 > Liebniz @leibniz1969monadology
 
-Simply because a machine performs a task does not mean that is produces human-like understanding. This concept has been explored from various angles. Another is John Searle's **Chinese Room** thought experiment that argues for the idea that computational work does not require anything like human understanding:
+This concept has been explored from various angles. Another is John Searle's **Chinese Room** thought experiment that argues for the idea that computational work does not require anything like human understanding:
 
-> I will argue that in the literal sense the programmed computer understands what the car and the adding machine understand, namely, exactly nothing. The computer understanding is not just (like my understanding of German) partial or incomplete; it is zero.
+> The programmed computer understands what the car and the adding machine understand, namely, exactly nothing. The computer understanding is not just partial or incomplete; it is zero.
 >
 > John Searle @searle1980minds
 
@@ -72,7 +72,7 @@ Still, it is difficult to prove that a computer is *not* thinking as humans thin
 >
 > Alan Turing @turing2007computing
 
-He proposed the **Turing test** test to determine if a machine is intelligent.
+He proposed the **Turing test** to determine if a machine is intelligent.
 
 ![Turing Test](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png)
 
