@@ -35,11 +35,14 @@ figure {
   margin: 0;
 }
 
+figcaption {
+  text-align: center;
+}
+
 img {
   width: 100%;
   height: auto;
   display: block;
-  margin: 1rem auto;
 }
 
 blockquote {
