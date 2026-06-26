@@ -6,9 +6,23 @@ Before we can construct a method to store and access data. We need to describe d
 
 One way to begin to construct an ontology is to consider different categories of entities using **set theory** and first-order logic. For example, here's one way categorize my shoe:
 
-$MyShoe \in Shoes \subset Footwear \subset Clothing \subset PhysicalObject \subset Anything$
+$MyShoe \in Shoes \subset Footwear \subset Clothing \subset PhysicalObjects \subset Anything$
 
 Breaking that down from left to right, we begin by stating that $MyShoe$ is a member of ($\in$) the $Shoes$ category. $Shoes$ is then a proper subset ($\subset$) of $Footwear$. This pattern follows up a tree of entities rooted at $Anything$.
+
+Reasoning could begin to happen via categories rather than entities. If I were to query a knowledge base to ask where I should go to replace $MyShoe$, it could provide a list of stores that sell $Clothing$.
+
+Let's consider a self-driving car example. $Vehicles$ would certainly be a helpful category. It could be connected to the following categories:
+
+$Vehicles \subset PhysicalObjects \subset Anything$
+
+$Cars \subset Vehicles$
+
+$Trucks \subset Vehicles$
+
+$ParkedCars \subset Cars$
+
+$MyCar \in Cars$
 
 Knowledge Base
 --------------
