@@ -9,7 +9,7 @@
 
 **Artificial intelligence** is the science of making machines do things that would require intelligence if done by humans @minsky1968semantic.
 
-AI is not magic. Many traditional computer programs, from **spell checkers** to **chess engines** can be considered artificial intelligence. In popular culture, the term may mean something more. There are fears that AI will replace the work and essense of humanity. If we aspire to be spell checkers, perhaps we should be concerned about this. Otherwise, our energy may be better spent exploring and understanding this science and our human role applying it.
+AI is not magic. Many traditional computer programs, from **spell checkers** to **chess engines** can be considered artificial intelligence. In popular culture, the term may mean something more. There are fears that AI will replace the work and essence of humanity. If we aspire to be spell checkers, perhaps we should be concerned about this. Otherwise, our energy may be better spent exploring and understanding this science and our human role applying it.
 
 ## Intelligence
 
