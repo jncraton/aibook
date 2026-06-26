@@ -42,7 +42,7 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 | :--- | :--- | :--- |
 | Level 1: Emerging<br>Below 50th percentile of skilled adults | **SHRDLU** @winograd1972understanding <br>**GOFAI** | **ChatGPT** @achiam2023gpt <br>**Google Gemini** @team2023gemini |
 | Level 2: Competent<br>At least 50th percentile of skilled adults | **Siri**<br>**Alexa** | Not yet achieved |
-| Level 3: Expert <br>At least 90th percentile of skilled adults | grammar checkers <br> **Google Imagen** @saharia2022photorealistic | Not yet achieved |
+| Level 3: Expert <br>At least 90th percentile of skilled adults | **Google Imagen** @saharia2022photorealistic <br> grammar checkers | Not yet achieved |
 | Level 4: Virtuoso<br>At least 99th percentile of skilled adults | **Deep Blue** @campbell1999knowledge <br>**AlphaGo** @silver2016mastering | Not yet achieved |
 | Level 5: Superhuman <br>Outperforms 100% of humans | **AlphaFold** @jumper2021highly <br>AlphaZero @silver2018general <br>**StockFish** | **Artificial Superintelligence** (ASI)<br>Not yet achieved |
 
