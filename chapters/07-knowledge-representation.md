@@ -2,6 +2,8 @@
 
 In order to be effective in many environments, agents need knowledge about their world. This involves the creation and curation of a **knowledge base**.
 
+## Ontologies
+
 Before we can construct a method to store and access data. We need to describe data in a manner in which the computer can handle. This formal description of knowledge is known as an **ontology**.
 
 One way to begin to construct an ontology is to consider different categories of entities using **set theory** and first-order logic. For example, here's one way categorize my shoe:
@@ -28,61 +30,11 @@ Mapping reality onto an ontology is an immense task. While it would be handy if 
 
 For many practical applications, a complete and universal consensus ontology is not required. A self-driving car needs to have robust knowledge about many elements of the environment, but it is likely not necessary for it to know that **Han shot first**.
 
-Knowledge Base
---------------
+## Taxonomies
 
-- Central component of knowledge-based agents
-- Stores knowledge as **sentences** in a knowledge representation language asserting facts about the world
+As we design a knowledge representation, it can be helpful to define categories using properties of objects. We stated earlier that $ParkedCar$ is a proper subset of $Car$, but we didn't specify a way to know if a given car is parked. We could say something like this:
 
-Updates
--------
-
-- Tell - Add new information
-- Ask - query for information
-
-Ontologies
-----------
-
-- Formal representations of knowledge in a domain
-- Ontology engineering studies the methodologies for building useful ontologies
-- [More info](https://en.wikipedia.org/wiki/Ontology_(information_science))
-
----
-
-![Upper Ontology](media/upper-ontology.png)
-
-Categories
-----------
-
-- Group similar objects
-- Reasoning often takes place at the level of categories
-- For example, a self-driving car will make decisions about pedestrians as a category without considering which individual pedestrians are nearby
-
-First-order logic
------------------
-
-- Treating categories as objects in first-order logic can provide useful reasoning tools
-- Membership: ${Bob} \in {Students}$
-- Subcategories: ${Students} \subset {People}$
-
-Inheritance
------------
-
-- Reasoning can be inherited through categories
-- If we know that people have birthdates, then we know that Bob has a birthdate
-
-Taxonomies
-----------
-
-- We can use properties of objects to create further categories
-
-$$
-\begin{gather}
-Orange(x) \land Round(x) \land \\ 
-Diameter(x) = 9.5 \land x \in Balls \Rightarrow \\
-x \in Basketballs
-\end{gather}
-$$
+$Car \in Cars \land Car \subset VehicleInParkingSpace \land Car \subset StoppedVehicle \rightarrow ParkedCars$
 
 ---
 
