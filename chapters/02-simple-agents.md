@@ -6,7 +6,7 @@ An **intelligent agent** is a system that is able gather input (perceptions) fro
 
 A robotic vacuum could be implemented a simple reflex-based agent, though it would not be especially efficient.
 
-![A robotic vacuum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Roomba_original.jpg/330px-Roomba_original.jpg)
+![A robotic vacuum](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/IRobot_Roomba_780.jpg/960px-IRobot_Roomba_780.jpg)
 
 One way to implement a turn-based agent is a function that accepts percepts and possible actions, selects an action when called, and is called repeatedly to allow the agent to interact with the environment. The following is the description of a simple agent function for a basic robotic vacuum:
 
