@@ -50,7 +50,7 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 
 One challenge for the field artificial intelligence is the tendency to project human traits onto computer programs when they do work that humans might do. This has been referred to as the **ELIZA effect** after the 1966 ELIZA chatbot @weizenbaum1966eliza. The creator of this early chatbot went on to reflect on this sort of emotional bonding and **anthropomorphism**:
 
-> I knew of course that people form all sorts of emotional bonds to machines, for example, to musical instruments, motorcycles, and cars. And I knew from long ex-perience that the strong emotional ties many programmers have to their computers are often formed after only short exposures to their machines. What I had not realized is that extremely short exposures to a relatively simple computer program could induce powerful de-delusional thinking in quite normal people. This insight led me to attach new importance to questions of the relationship between the individual and the computer, and hence to resolve to think about them.
+> I knew of course that people form all sorts of emotional bonds to machines, for example, to musical instruments, motorcycles, and cars. And I knew from long experience that the strong emotional ties many programmers have to their computers are often formed after only short exposures to their machines. What I had not realized is that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people. This insight led me to attach new importance to questions of the relationship between the individual and the computer, and hence to resolve to think about them.
 >
 > Joseph Weizenbaum @weizenbaum1977computer
 
