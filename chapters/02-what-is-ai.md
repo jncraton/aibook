@@ -76,7 +76,7 @@ He proposed the **Turing test** to determine if a machine is intelligent.
 
 ![Turing Test](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png)
 
-In the test, an evaluator is allowed to interact with a system using only text without knowing if they are interacting with a human or a computer. If the participant is unable to reliably determine if they are interacting with a human or a computer, then the computer is determined to be intelligent based on the test.
+In the test, an evaluator is allowed to interact with a system using only text without knowing if they are interacting with a human or a computer. If the participant is unable to reliably determine if they are interacting with a human or a computer, then the computer is determined to be intelligent based on the test. Beginning in 2025, some AI systems have been able to pass this test @doi:10.1073/pnas.2524472123.
 
 ## Disciplines
 
