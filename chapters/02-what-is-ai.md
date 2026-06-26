@@ -40,11 +40,11 @@ Intelligence is difficult to define, and this makes it difficult to measure prog
 
 | | Narrow | General |
 | :--- | :--- | :--- |
-| Level 1: Emerging<br>below 50th percentile of skilled adults | **SHRDLU** @winograd1972understanding and **GOFAI** | Emerging AGI <br> **ChatGPT** @achiam2023gpt or **Google Gemini** @team2023gemini |
-| Level 2: Competent <br> at least 50th percentile of skilled adults | **Siri** or **Alexa** | Competent **AGI**<br>Not yet achieved |
-| Level 3: Expert <br> at least 90th percentile of skilled adults | grammar checkers; Imagen @saharia2022photorealistic | Expert AGI<br>Not yet achieved |
-| Level 4: Virtuoso <br> at least 99th percentile of skilled adults | **Deep Blue** @campbell1999knowledge, **AlphaGo** @silver2016mastering | Virtuoso AGI<br>Not yet achieved |
-| Level 5: Superhuman <br> outperforms 100% of humans | **AlphaFold** @jumper2021highly, AlphaZero @silver2018general, StockFish | **Artificial Superintelligence** (ASI)<br>Not yet achieved |
+| Level 1: Emerging<br>Below 50th percentile of skilled adults | **SHRDLU** @winograd1972understanding <br>**GOFAI** | **ChatGPT** @achiam2023gpt <br>**Google Gemini** @team2023gemini |
+| Level 2: Competent<br>At least 50th percentile of skilled adults | **Siri**<br>**Alexa** | Not yet achieved |
+| Level 3: Expert <br>At least 90th percentile of skilled adults | grammar checkers <br> **Google Imagen** @saharia2022photorealistic | Not yet achieved |
+| Level 4: Virtuoso<br>At least 99th percentile of skilled adults | **Deep Blue** @campbell1999knowledge <br>**AlphaGo** @silver2016mastering | Not yet achieved |
+| Level 5: Superhuman <br>Outperforms 100% of humans | **AlphaFold** @jumper2021highly <br>AlphaZero @silver2018general <br>**StockFish** | **Artificial Superintelligence** (ASI)<br>Not yet achieved |
 
 ## Understanding
 
