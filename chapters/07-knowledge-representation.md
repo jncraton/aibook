@@ -1,9 +1,12 @@
 # Knowledge Representation
 
-Knowledge-based agents
-----------------------
+In order to be effective in many environments, agents need knowledge about their world. This involves the creation and curation of a **knowledge base**.
 
-- Apply a reasoning process to knowledge representation to make decisions
+Before we can construct a method to store and access data. We need to describe data in a manner in which the computer can handle. This formal description of knowledge is known as an **ontology**.
+
+One way to begin to construct an ontology is to consider different categories of entities using **set theory** and first-order logic. For example, here's one way categorize my shoes:
+
+$MyShoes \in Shoes \subset Footwear \subset Clothing \subset PhysicalObject$
 
 Knowledge Base
 --------------
