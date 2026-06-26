@@ -72,7 +72,7 @@ Still, it is difficult to prove that a computer is *not* thinking as humans thin
 >
 > Alan Turing @turing2007computing
 
-Turing proposed a test to determine if a machine is intelligent.
+He proposed the **Turing test** test to determine if a machine is intelligent.
 
 ![Turing Test](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png)
 
