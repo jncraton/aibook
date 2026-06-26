@@ -1,5 +1,6 @@
 # Image Credits
 
+- [Gentoo Penguins](https://commons.wikimedia.org/wiki/File:2020-11_Kerguelen_Islands_-_Gentoo_penguin_11.jpg) (https://commons.wikimedia.org/wiki/File:2020-11_Kerguelen_Islands_-_Gentoo_penguin_11.jpg)
 - [Ants building a bridge](https://commons.wikimedia.org/wiki/File:AntBridge_Crossing_10.jpg) (https://commons.wikimedia.org/wiki/File:AntBridge_Crossing_10.jpg)
 - [Artificial Neuron](https://commons.wikimedia.org/wiki/File:Artificial_neuron_structure.svg) (https://commons.wikimedia.org/wiki/File:Artificial_neuron_structure.svg)
 - [A* with admissible heuristic](https://commons.wikimedia.org/wiki/File:Astar_progress_animation.gif) (https://commons.wikimedia.org/wiki/File:Astar_progress_animation.gif)
@@ -15,12 +16,13 @@
 - [LEGO Mindstorms](https://commons.wikimedia.org/wiki/File:Ev3_And_Spike_Prime.jpg) (https://commons.wikimedia.org/wiki/File:Ev3_And_Spike_Prime.jpg)
 - [Go](https://commons.wikimedia.org/wiki/File:Go_--_2021_--_6746.jpg) (https://commons.wikimedia.org/wiki/File:Go_--_2021_--_6746.jpg)
 - [Maillardet automaton](https://commons.wikimedia.org/wiki/File:Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg) (https://commons.wikimedia.org/wiki/File:Henri_Maillardet_automaton%2C_London%2C_England%2C_c._1810_-_Franklin_Institute_-_DSC06656.jpg)
+- [A robotic vacuum](https://commons.wikimedia.org/wiki/File:IRobot_Roomba_780.jpg) (https://commons.wikimedia.org/wiki/File:IRobot_Roomba_780.jpg)
+- [Lines on Cartesian Plane](https://commons.wikimedia.org/wiki/File:Linear_Function_Graph.svg) (https://commons.wikimedia.org/wiki/File:Linear_Function_Graph.svg)
 - [A hedge maze](https://commons.wikimedia.org/wiki/File:Longleat-maze.jpg) (https://commons.wikimedia.org/wiki/File:Longleat-maze.jpg)
 - [Maze](https://commons.wikimedia.org/wiki/File:Maze_simple.svg) (https://commons.wikimedia.org/wiki/File:Maze_simple.svg)
 - [Mechanical Pinocchio](https://commons.wikimedia.org/wiki/File:Mechanical_Pinochio.gif) (https://commons.wikimedia.org/wiki/File:Mechanical_Pinochio.gif)
 - [Mules working in the Grand Canyon](https://commons.wikimedia.org/wiki/File:Mule_train.jpg) (https://commons.wikimedia.org/wiki/File:Mule_train.jpg)
 - [Phototropism](https://commons.wikimedia.org/wiki/File:Phototropism_in_Solanum_lycopersicum.gif) (https://commons.wikimedia.org/wiki/File:Phototropism_in_Solanum_lycopersicum.gif)
-- [A robotic vacuum](https://commons.wikimedia.org/wiki/File:Roomba_original.jpg) (https://commons.wikimedia.org/wiki/File:Roomba_original.jpg)
 - [Shortest Path From A to F](https://commons.wikimedia.org/wiki/File:Shortest_path_with_direct_weights.svg) (https://commons.wikimedia.org/wiki/File:Shortest_path_with_direct_weights.svg)
 - [Reflex-based agent](https://commons.wikimedia.org/wiki/File:Simple_reflex_agent.png) (https://commons.wikimedia.org/wiki/File:Simple_reflex_agent.png)
 - [Move sequence in Tic-Tac-Toe](https://commons.wikimedia.org/wiki/File:Tic-tac-toe-game-1.svg) (https://commons.wikimedia.org/wiki/File:Tic-tac-toe-game-1.svg)
