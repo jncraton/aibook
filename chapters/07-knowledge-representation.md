@@ -24,6 +24,10 @@ $ParkedCars \subset Cars$
 
 $MyCar \in Cars$
 
+Mapping reality onto an ontology is an immense task. While it would be handy if a universal ontology existed, such a project is likely to be impossible to complete, there are many bits of knowledge that are true for some people and untrue for others. For an example of a project that attempts to build a large knowledge base, consider **wikidata**.
+
+For many practical applications, a complete and universal consensus ontology is not required. A self-driving car needs to have robust knowledge about many elements of the environment, but it is likely not necessary for it to know that **Han shot first**.
+
 Knowledge Base
 --------------
 
